@@ -1,0 +1,10 @@
+full_name>mhmd atta halilintar</full_name>
+<company_name>suqma</company_name>
+<mailing_address>jalan alam elok III ux2 pondok indah</mailing_address>
+<city_name>jakarta selatan</city_name>
+<state_name>jakarta selatan, jakarta</state_name>
+<zip_code>12310</zip_code>
+<country_name>Indonesia</country_name>
+<country_code>ID</country_code>
+<email_address>attahalilintar@gmail.com</email_address>
+<phone_number>6287878767313</phone_number>
