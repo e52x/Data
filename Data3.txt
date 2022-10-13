@@ -1,0 +1,58 @@
+Bagus Harie Prabowo</full_name>
+<company_name>Direktorat Jenderal Pajak</company_name>
+<mailing_address>Jl.Gatot Subroto Kav.40-42</mailing_address>
+<city_name>Jakarta Selatan</city_name>
+<state_name>DKI Jakarta</state_name>
+<zip_code>12190</zip_code>
+<country_name>Indonesia</country_name>
+<country_code>ID</country_code>
+<email_address>bagus.prabowo@pajak.go.id</email_address>
+<phone_number>625251509</phone_number>
+<fax_number>625251509</fax_number>
+</registrant_contact>
+<administrative_contact>
+<full_name>Ikhsan Alisyahbani</full_name>
+<company_name>Direktorat Jenderal Pajak</company_name>
+<mailing_address>Jl.Murai II Blok G.3 No4Kelurahan SukapuraKecamatan Cilincing</mailing_address>
+<city_name>jakarta Utara</city_name>
+<state_name>DKI Jakarta</state_name>
+<zip_code>14140</zip_code>
+<country_name>Indonesia</country_name>
+<country_code>ID</country_code>
+<email_address>alsa.alde07@gmail.com</email_address>
+<phone_number>62215250208</phone_number>
+<fax_number>62215736088</fax_number>
+</administrative_contact>
+<technical_contact>
+<full_name>Ikhsan Alisyahbani</full_name>
+<company_name>Direktorat Jenderal Pajak</company_name>
+<mailing_address>Jl.Murai II Blok G.3 No4Kelurahan SukapuraKecamatan Cilincing</mailing_address>
+<city_name>jakarta Utara</city_name>
+<state_name>DKI Jakarta</state_name>
+<zip_code>14140</zip_code>
+<country_name>Indonesia</country_name>
+<country_code>ID</country_code>
+<email_address>alsa.alde07@gmail.com</email_address>
+<phone_number>62215250208</phone_number>
+<fax_number>62215736088</fax_number>
+</technical_contact>
+<billing_contact>
+<full_name>Bagus Harie Prabowo</full_name>
+<company_name>Direktorat Jenderal Pajak</company_name>
+<mailing_address>Jl.Gatot Subroto Kav.40-42</mailing_address>
+<city_name>Jakarta Selatan</city_name>
+<state_name>DKI Jakarta</state_name>
+<zip_code>12190</zip_code>
+<country_name>Indonesia</country_name>
+<country_code>ID</country_code>
+<email_address>bagus.prabowo@pajak.go.id</email_address>
+<phone_number>625251509</phone_number>
+<fax_number>625251509</fax_number>
+</billing_contact>
+<name_servers>
+<value>ns0.pajak.go.id</value>
+<value>ns1.pajak.go.id</value>
+</name_servers>
+<domain_status>
+<value>OK</value>
+</domain_status>
