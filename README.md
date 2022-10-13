@@ -1,1 +1,1 @@
-# 1010 DATA V2
+# Tetap Lah Hidup Walau  Tidak Berguna :)
