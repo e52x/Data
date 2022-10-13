@@ -1,0 +1,54 @@
+<company_name>Komisi Pemberantasan Korupsi</company_name>
+<mailing_address>HR Rasuna Said Kav. C1HR Rasuna Said Kav. C1</mailing_address>
+<city_name>Jakarta</city_name>
+<state_name>DKI Jakarta</state_name>
+<zip_code>12920</zip_code>
+<country_name>Indonesia</country_name>
+<country_code>ID</country_code>
+<email_address>eka.pratania@kpk.go.id</email_address>
+<phone_number>622125578300</phone_number>
+</registrant_contact>
+<administrative_contact>
+<full_name>AdminKPK KPK</full_name>
+<company_name>Komisi Pemberantasan Korupsi</company_name>
+<mailing_address>HR Rasuna Said Kav. C1HR Rasuna Said Kav. C1</mailing_address>
+<city_name>Jakarta</city_name>
+<state_name>DKI Jakarta</state_name>
+<zip_code>12920</zip_code>
+<country_name>Indonesia</country_name>
+<country_code>ID</country_code>
+<email_address>eka.pratania@kpk.go.id</email_address>
+<phone_number>622125578300</phone_number>
+</administrative_contact>
+<technical_contact>
+<full_name>AdminKPK KPK</full_name>
+<company_name>Komisi Pemberantasan Korupsi</company_name>
+<mailing_address>HR Rasuna Said Kav. C1HR Rasuna Said Kav. C1</mailing_address>
+<city_name>Jakarta</city_name>
+<state_name>DKI Jakarta</state_name>
+<zip_code>12920</zip_code>
+<country_name>Indonesia</country_name>
+<country_code>ID</country_code>
+<email_address>eka.pratania@kpk.go.id</email_address>
+<phone_number>622125578300</phone_number>
+</technical_contact>
+<billing_contact>
+<full_name>AdminKPK KPK</full_name>
+<company_name>Komisi Pemberantasan Korupsi</company_name>
+<mailing_address>HR Rasuna Said Kav. C1HR Rasuna Said Kav. C1</mailing_address>
+<city_name>Jakarta</city_name>
+<state_name>DKI Jakarta</state_name>
+<zip_code>12920</zip_code>
+<country_name>Indonesia</country_name>
+<country_code>ID</country_code>
+<email_address>eka.pratania@kpk.go.id</email_address>
+<phone_number>622125578300</phone_number>
+</billing_contact>
+<name_servers>
+<value>ns1.telkom.net.id</value>
+<value>ns2.cni.net.id</value>
+<value>ns3.telkom.net.id</value>
+</name_servers>
+<domain_status>
+<value>OK</value>
+</domain_status>
