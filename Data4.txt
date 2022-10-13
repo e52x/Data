@@ -40,3 +40,7 @@
 [+] Email: ahma003@kominfo.go.id ()
 [+] Email: insiden@insting.kominfo.go.id ()
 [+] Email: heru020@kominfo.go.id ()
+[+] Email: bicara@bi.go.id ()
+[+] Email: cs_perizinan@bi.go.id ()
+[+] Email: t_ameriana@bi.go.id ()
+[+] Email: firman_h@bi.go.id ()
