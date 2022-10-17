@@ -1,3 +1,3 @@
-:# Tetap Lah Hidup Walau  Tidak Berguna :)
+# Tetap Lah Hidup Walau  Tidak Berguna :)
 
 # Jangan Lupa Bersyukur :)
