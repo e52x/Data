@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/73192109/198819379-607fa017-b981-4498-9f75-0ed8db2afbe9.png)
-
+![image](https://user-images.githubusercontent.com/73192109/198819888-8dc12085-fcbc-4d59-9089-da2582f2521c.png)
 
 
 # Tetap Lah Hidup Walau  Tidak Berguna :)
